@@ -22,10 +22,10 @@ statistical methods | data integration | infectious diseases | transmission mode
 
 ### Recent Projects
 
-* tuberculosis SeveriTy Assessment Tool for Informed Stratification (TB-STATIS)
-R package to implement TB-STATIS is [here.](https://github.com/samalatesta/tbSTATIS)
+* tuberculosis SeveriTy Assessment Tool for Informed Stratification (TB-STATIS)     
+  A statistical model to integrate diagnostic information at time of tuberculosis diagnosis to generate clinical phenotypes of TB disease severity. R package to implement TB-STATIS is [here.](https://github.com/samalatesta/tbSTATIS)
 
-Malatesta S, Jacobson KR, Horsburgh CR, Farhat MR, Gile KJ, Kolaczyk ED, White LF. An Integrated Data-Driven Model for Clinical Phenotyping of Tuberculosis Disease Severity.
+  Malatesta S, Jacobson KR, Horsburgh CR, Farhat MR, Gile KJ, Kolaczyk ED, White LF. An Integrated Data-Driven Model for Clinical Phenotyping of Tuberculosis Disease Severity.
 
 
 RDS [This is an external link to genome.gov](https://github.com/samalatesta/RDSAssociation)
