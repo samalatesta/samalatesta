@@ -1,6 +1,6 @@
 ## Hello 👋
 
-### About Me
+### About Me 
 <!--
 **samalatesta/samalatesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,3 +21,14 @@ Here are some ideas to get you started:
 statistical methods | data integration | infectious diseases | transmission modeling | tuberculosis
 
 ### Recent Projects
+
+Disease severity 
+Malatesta S, Jacobson KR, Horsburgh CR, Farhat MR, Gile KJ, Kolaczyk ED, White LF. An Integrated Data-Driven Model for Clinical Phenotyping of Tuberculosis Disease Severity.
+
+
+
+[TB-STATIS](https://github.com/samalatesta/tbSTATIS)
+
+RDS [This is an external link to genome.gov](https://github.com/samalatesta/RDSAssociation)
+
+Malatesta S, Jacobson KR, Carney T, Kolaczyk ED, Gile KJ, White LF. Inferring bivariate association with continuous data from a respondent-driven sample. Journal of the Royal Statistical Society Series C: Applied Statistics. 2024:qlae061.https://doi.org/10.1093/jrsssc/qlae061
