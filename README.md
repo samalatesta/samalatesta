@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hello 👋
 
+### About Me
 <!--
 **samalatesta/samalatesta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,3 +16,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://github.com/user-attachments/assets/d1e81077-08ef-4d0e-b858-ebb877caedab" width="300" height="300">
+
+### Interests 
+statistical methods | data integration | infectious diseases | transmission modeling | tuberculosis
+
+### Recent Projects
