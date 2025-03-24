@@ -1,6 +1,6 @@
 # Hello! 👋
 
-<img style="padding: 0px 5px 0px 0px;" float: right align="right" src="https://github.com/user-attachments/assets/d1e81077-08ef-4d0e-b858-ebb877caedab" width="300" height="300">
+<img style="padding: 0px 5px 0px 0px;" float: right align="right" src="https://github.com/user-attachments/assets/d1e81077-08ef-4d0e-b858-ebb877caedab" width="250" height="250">
 
 ### About Me       
 I am a Postdoctoral Research Fellow in the [Boston University Clinical HIV/AIDS Research Training Program](https://www.bumc.bu.edu/id/research-programs/bu-chart/) at Boston Medical Center. I earned my PhD in Biostatistics from Boston University where I developed statistical methods for understanding tuberculosis disease dynamics among key populations. My current work focuses on  statistical methods for understanding infectious disease transmission that integrates pathogen whole genome sequencing and individual-level clinical data. I am particularly interested in settings with both a high TB and HIV burden where community transmission is common. 
