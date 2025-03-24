@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://github.com/user-attachments/assets/d1e81077-08ef-4d0e-b858-ebb877caedab" width="300" height="300">
+<img src="https://github.com/user-attachments/assets/d1e81077-08ef-4d0e-b858-ebb877caedab" width="200" height="200">
 
 ### Interests 
 statistical methods | data integration | infectious diseases | transmission modeling | tuberculosis
@@ -28,6 +28,6 @@ statistical methods | data integration | infectious diseases | transmission mode
   Malatesta S, Jacobson KR, Horsburgh CR, Farhat MR, Gile KJ, Kolaczyk ED, White LF. An Integrated Data-Driven Model for Clinical Phenotyping of Tuberculosis Disease Severity.
 
 * Semi-parametric randomization test for continuous association (SPRTCA)    
-  A statistical test to infer bivariate association between two variables collected using respondent-driven sampling that accounts for data correlation. R package to implement SPRTCA is [here.](https://github.com/samalatesta/RDSAssociation)
+  A statistical test to infer bivariate association between two variables collected using respondent-driven sampling that accounts for sample correlation from peer-recruitment. R package to implement SPRTCA is [here.](https://github.com/samalatesta/RDSAssociation)
 
   Malatesta S, Jacobson KR, Carney T, Kolaczyk ED, Gile KJ, White LF. Inferring bivariate association with continuous data from a respondent-driven sample. Journal of the Royal Statistical Society Series C: Applied Statistics. 2024:qlae061.https://doi.org/10.1093/jrsssc/qlae061
