@@ -3,8 +3,7 @@
 <img style="padding: 10px 10px 10px 10px;" float: right align="right" src="https://github.com/user-attachments/assets/460fd0c4-5b84-4e20-a273-9497e788f04c" width="300" height="300">
 
 ### About Me       
-I am a Postdoctoral Research Fellow in the [Boston University Clinical HIV/AIDS Research Training Program](https://www.bumc.bu.edu/id/research-programs/bu-chart/) at Boston Medical Center. I earned my PhD in Biostatistics from Boston University where I developed statistical methods for understanding tuberculosis disease dynamics among key populations. My current work focuses on  statistical methods for understanding infectious disease transmission that integrates pathogen whole genome sequencing and individual-level clinical data. I am particularly interested in settings with both a high TB and HIV burden where community transmission is common. 
-
+I am a Postdoctoral Research Fellow in the [Boston University Clinical HIV/AIDS Research Training Program](https://www.bumc.bu.edu/id/research-programs/bu-chart/) at Boston Medical Center. I earned my PhD in Biostatistics from Boston University where I developed statistical methods for understanding tuberculosis disease dynamics among key populations. My current work focuses on applying various modeling techniques to learn about TB transmission and developing statistical methods for understanding infectious disease transmission that integrate pathogen whole genome sequencing and individual-level clinical data.
 
 ### Interests 
 statistical methods | data integration | infectious diseases | transmission modeling | tuberculosis
@@ -19,4 +18,4 @@ statistical methods | data integration | infectious diseases | transmission mode
 * Semi-parametric randomization test for continuous association (SPRTCA)    
   A statistical test to infer bivariate association between two variables collected using respondent-driven sampling that accounts for sample correlation from peer-recruitment. R package to implement SPRTCA is [here.](https://github.com/samalatesta/RDSAssociation)
 
-  Malatesta S, Jacobson KR, Carney T, Kolaczyk ED, Gile KJ, White LF. Inferring bivariate association with continuous data from a respondent-driven sample. Journal of the Royal Statistical Society Series C: Applied Statistics. 2024:qlae061.https://doi.org/10.1093/jrsssc/qlae061
+  Malatesta S, Jacobson KR, Carney T, Kolaczyk ED, Gile KJ, White LF. Inferring bivariate association with continuous data from a respondent-driven sample. Journal of the Royal Statistical Society Series C: Applied Statistics. 2025;74(2):429-446. doi:10.1093/jrsssc/qlae061
