@@ -3,7 +3,7 @@
 <img style="padding: 10px 10px 10px 10px;" float: right align="right" src="https://github.com/user-attachments/assets/460fd0c4-5b84-4e20-a273-9497e788f04c" width="300" height="300">
 
 ### About Me       
-I am a Postdoctoral Research Fellow in the [Boston University Clinical HIV/AIDS Research Training Program](https://www.bumc.bu.edu/id/research-programs/bu-chart/) at Boston Medical Center. I earned my PhD in Biostatistics from Boston University where I developed statistical methods for understanding tuberculosis disease dynamics among key populations. My current work focuses on applying various modeling techniques to learn about TB transmission and developing statistical methods for understanding infectious disease transmission that integrate pathogen whole genome sequencing and individual-level clinical data.
+I am a biostatistician and Instructor of Medicine at Boston University School of Medicine. My work sits at the intersection of biostatistics, infectious disease epidemiology, and global health — developing and applying statistical and computational methods to understand disease burden and risk factors. I am currently focused on integrating genomic, clinical, and surveillance data to inform disease control in high-burden settings, and in building reproducible, scalable analytic tools for population-based research.
 
 ### Interests 
-statistical methods | data integration | infectious diseases | transmission modeling | tuberculosis
+statistical methods | data integration | global health | tuberculosis
